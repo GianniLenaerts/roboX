@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoboX_official</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_button">buttonActivity</string>
+    <string name="title_activity_move">moveActivity</string>
+</resources>
